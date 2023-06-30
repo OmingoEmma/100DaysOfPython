@@ -1,2 +1,3 @@
 # 100DaysOfPython
-This is my 10 days of Python challenge
+This is my 100 Days of Python Code challenge
+
